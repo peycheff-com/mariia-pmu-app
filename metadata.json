@@ -1,0 +1,7 @@
+{
+  "name": "Healed-First PMU Mockup",
+  "description": "A web application for BM Beauty Studio that provides a live, photorealistic try-on for permanent makeup (PMU) procedures using AI. Users can visualize healed results for lips and brows before booking a procedure.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
